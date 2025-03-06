@@ -6,4 +6,4 @@
  */
 
 rootProject.name = 'Exercise 1'
-
+include('plugin')
