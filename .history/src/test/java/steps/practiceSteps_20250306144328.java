@@ -8,7 +8,7 @@ public class practiceSteps {
     principal landingPage = new principal();
 
     @Given("the user navigates to www.amazon.com")
-    public void navigateToAmazon() {
+    public void iNavigateToAmazon() {
         landingPage.navigateToAmazon();
     }
 }
